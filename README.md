@@ -8,5 +8,6 @@ There are three main login options in the program:
 
 1) The admin has the authority to create student and instructor profiles, fill them out with the relevant data, and assign classes to teachers and students. additionally edit or remove the profiles. 
 2) A teacher can upload a student's exam mark list and correct it if there are any errors.
-3) Students can access their grades and attendance records that have been saved in the database. 
+3) Students can access their grades records that have been saved in the database. 
 
+mainly uses python and csv files
