@@ -58,4 +58,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 - Jeffin Basil
 - Email: jeffinbasil484@gmail.com
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/jeffin-basil)
+- LinkedIn: [Jeffin Basil](www.linkedin.com/in/jeffin-basil)
