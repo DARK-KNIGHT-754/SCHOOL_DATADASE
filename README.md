@@ -25,7 +25,7 @@ This is a Course Management System implemented in Python using the Tkinter libra
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/course-management-system.git
+   https://github.com/FALLEN-01/SCHOOL_DATADASE_MANAGEMENT.git
    ```
 
 2. Navigate to the project directory:
@@ -58,4 +58,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 - Jeffin Basil
 - Email: jeffinbasil484@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-username/)
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/jeffin-basil)
