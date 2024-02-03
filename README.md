@@ -1,16 +1,61 @@
-# SCHOOL_DATADASE
-This tool makes it simple for schools to save and manage teacher and student records.
-Our goal is to create a database platform that allows users to easily save and alter data using a simple graphical user interface.
-There are three main login options in the program:                      
-1)	Administrator. 
-2)	Teacher.
-3)	Student.
+# Course Management System
 
-1) The admin has the authority to create student and instructor profiles, fill them out with the relevant data, and assign classes to teachers and students. additionally edit or remove the profiles. 
-2) A teacher can upload a student's exam mark list and correct it if there are any errors.
-3) Students can access their grades records that have been saved in the database
+## Overview
 
+This is a Course Management System implemented in Python using the Tkinter library for the graphical user interface. The system provides functionalities for user authentication, user management, and marking entry.
 
-Python and Csv files
-username : admin
-password :
+## Features
+
+- **User Authentication:** Users can log in with their username and password.
+- **User Management:**
+  - Admin Panel: Add, search, update, and delete user accounts.
+  - Teacher Panel: Mark entry functionality.
+  - Student Panel: View profile and performance.
+- **Graphical User Interface:** Utilizes Tkinter for creating a user-friendly interface.
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.10 or above
+- Tkinter library (usually included with Python)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/course-management-system.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd course-management-system
+   ```
+
+3. Run the Python program:
+
+   ```bash
+   python main.py
+   ```
+
+## Usage
+
+1. Launch the program by running `main.py`.
+2. Log in with valid credentials.
+3. Explore the features based on your role (Admin, Teacher, Student).
+
+## Screenshots
+
+Include screenshots or GIFs to showcase the application's UI and functionalities.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Contact
+
+- Jeffin Basil
+- Email: jeffinbasil484@gmail.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-username/)
