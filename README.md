@@ -48,7 +48,7 @@ This is a Course Management System implemented in Python using the Tkinter libra
 
 ## Screenshots
 
-Include screenshots or GIFs to showcase the application's UI and functionalities.
+
 
 ## License
 
